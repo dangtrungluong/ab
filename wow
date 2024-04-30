@@ -162,6 +162,7 @@ BOOTVID.DLL
 bopomofo.uce
 browcli.dll
 browseui.dll
+BS_SDK.dll
 bthprops.cpl
 bthudtask.exe
 btpanui.dll
@@ -194,6 +195,7 @@ certutil.exe
 cewmdm.dll
 cfgbkend.dll
 cfgmgr32.dll
+CH375DLL.DLL
 chajei.ime
 charmap.exe
 chcp.com
@@ -241,6 +243,8 @@ comcat.dll
 comctl32.dll
 comdlg32.dll
 comexp.msc
+commpro.dll
+comms.dll
 comp.exe
 compact.exe
 compmgmt.msc
@@ -281,6 +285,8 @@ ctfmon.exe
 ctl3d32.dll
 cttune.exe
 cttunesvr.exe
+cv110.dll
+cxcore110.dll
 C_037.NLS
 C_10000.NLS
 C_10001.NLS
@@ -642,7 +648,10 @@ fontview.exe
 forfiles.exe
 format.com
 fpb.rs
+FPCLOCK_Svr.ocx
 fphc.dll
+FPLib.dll
+FP_CLOCK.ocx
 framedyn.dll
 framedynos.dll
 fsmgmt.msc
@@ -694,6 +703,7 @@ hhsetup.dll
 hid.dll
 hidphone.tsp
 hidserv.dll
+highgui110.dll
 hlink.dll
 hnetcfg.dll
 hnetmon.dll
@@ -1003,6 +1013,8 @@ label.exe
 LAPRXY.DLL
 lcphrase.tbl
 lcptr.tbl
+libeay32.dll
+libusb0.dll
 license.rtf
 licmgr10.dll
 linkinfo.dll
@@ -1402,6 +1414,7 @@ NOISE.THA
 normaliz.dll
 notepad.exe
 npmproxy.dll
+NSearchMC.dll
 nshhttp.dll
 nshipsec.dll
 nshwfp.dll
@@ -1516,6 +1529,12 @@ PkgMgr.exe
 pku2u.dll
 pla.dll
 PlaySndSrv.dll
+plcommpro.dll
+plcomms.dll
+plrscagent.dll
+plrscomm.dll
+pltcpcomm.dll
+plusbcomm.dll
 pmcsnap.dll
 pngfilt.dll
 pnidui.dll
@@ -1663,6 +1682,8 @@ rpcrt4.dll
 RpcRtRemote.dll
 rrinstaller.exe
 rsaenh.dll
+rscagent.dll
+rscomm.dll
 rshx32.dll
 rsop.msc
 RstrtMgr.dll
@@ -1809,6 +1830,7 @@ SrpUxNativeSnapIn.dll
 srvcli.dll
 sscore.dll
 ssdpapi.dll
+ssleay32.dll
 sspicli.dll
 SSShim.dll
 ssText3d.scr
@@ -1875,6 +1897,7 @@ TaskSchdPS.dll
 tbs.dll
 tcmsetup.exe
 tcpbidi.xml
+tcpcomm.dll
 tcpipcfg.dll
 tcpmonui.dll
 TCPSVCS.EXE
@@ -1892,6 +1915,7 @@ TimeDateMUICallback.dll
 timeout.exe
 tintlgnt.ime
 tlscsp.dll
+TMPCCOMM.dll
 tpm.msc
 tpmcompc.dll
 TpmInit.exe
@@ -1918,9 +1942,13 @@ typeperf.exe
 tzres.dll
 tzutil.exe
 ubpm.dll
+UCBioBSP.dll
+UCBioBSPCOM.dll
 ucmhc.dll
 ucrtbase.dll
 ucrtbase_clr0400.dll
+UCSAPI40.dll
+UCSAPICOM.dll
 udhisapi.dll
 uexfat.dll
 ufat.dll
@@ -1944,7 +1972,9 @@ ureg.dll
 url.dll
 urlmon.dll
 usbceip.dll
+usbcomm.dll
 usbperf.dll
+usbstd.dll
 usbui.dll
 user.exe
 user32.dll
@@ -1984,8 +2014,10 @@ verifier.exe
 version.dll
 vfpodbc.dll
 vfwwdm32.dll
+VHMLib.dll
 vidcap.ax
 VIDRESZR.DLL
+VirdiFP.dll
 virtdisk.dll
 vpnikeapi.dll
 vssadmin.exe
@@ -2156,6 +2188,7 @@ wscui.cpl
 WSDApi.dll
 wsdchngr.dll
 wsecedit.dll
+WSEngine.dll
 wshbth.dll
 wshcon.dll
 wshelper.dll
@@ -2213,3 +2246,6 @@ xwreg.dll
 xwtpdui.dll
 xwtpw32.dll
 zipfldr.dll
+ZKCommuCryptoClient.dll
+zkemkeeper.dll
+zkemsdk.dll
